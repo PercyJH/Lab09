@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:GestureDemo.Views"
+             x:Class="GestureDemo.Views.PanDemo">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <local:PanContainer>
+                <Image Source="MonoMonkey.png" WidthRequest="1400" HeightRequest="786" />
+            </local:PanContainer>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\bin\Debug\netstandard2.0\GestureDemo.deps.json
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\bin\Debug\netstandard2.0\GestureDemo.dll
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\bin\Debug\netstandard2.0\ref\GestureDemo.dll
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\bin\Debug\netstandard2.0\GestureDemo.pdb
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\Views\App.xaml.g.cs
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\Views\PanDemo.xaml.g.cs
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\Views\PinchDemo.xaml.g.cs
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\Views\SwipeDemo.xaml.g.cs
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\Views\TapDemo.xaml.g.cs
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\GestureDemo.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\GestureDemo.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\GestureDemo.dll
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\ref\GestureDemo.dll
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\GestureDemo.pdb
+C:\Users\Alumno\source\repos\GestureDemo\GestureDemo\obj\Debug\netstandard2.0\GestureDemo.csprojAssemblyReference.cache
